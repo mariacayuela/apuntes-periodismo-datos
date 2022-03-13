@@ -1,4 +1,4 @@
-# Apuntes de Periodismo de datos 
+# Periodismo de datos 
 ## María Cayuela 
 Este es mi repositorio de la asignatura Periodismo de Datos. Aquí iré subiendo los ejercicios que iremos realizando a lo largo del cuatrimestre. 
 
