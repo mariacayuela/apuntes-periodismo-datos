@@ -1,5 +1,6 @@
 # Periodismo de datos 
-***María Cayuela*** 
+***María Cayuela***
+ 
 Este es mi repositorio de la asignatura Periodismo de Datos, impartida en la Universidad Carlos III de Madrid. Aquí subiré los ejercicios que iremos realizando a lo largo del cuatrimestre. 
 
 ### Índice de material y prácticas realizadas: 
