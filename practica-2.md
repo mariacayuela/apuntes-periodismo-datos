@@ -1,4 +1,4 @@
-# Radiografía de los estudiantes Erasmus en España: los que vienen y los que se van
+# Radiografía de los estudiantes Erasmus en España: procedencia de los que vienen y los que se van
 
 ***María Cayuela***
 
