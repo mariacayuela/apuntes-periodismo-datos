@@ -21,7 +21,7 @@ En España, un país del grupo intermedio o *En transición*, sus alumnos eligen
 
 ## ¿De dónde son los Erasmus que vienen a España?
 
-La situación es algo diferente cuando se trata del país de origen de los estudiantes que escogen a España como lugar de destino para su Erasmus. Si bien es cierto que la primera plaza la sigue ocupando Italia, los siguientes puestos son para Alemania y Francia, países de la categoría de *Más desarrollados*. En este caso, la mayoría de los alumnos provienen de estos tres lugares, pero también aparecen otros como Polonia (*En transición* y que también es un destino frecuente para los españoles) o Portugal. Turquía, único país del grupo de los *Menos desarrollados*, ocupa el séptimo lugar.
+La situación es algo diferente cuando se trata del país de origen de los estudiantes que escogen a España como lugar de destino para su Erasmus. Si bien es cierto que la primera plaza la sigue ocupando Italia, los siguientes puestos son para Alemania y Francia, países de la categoría de *Más desarrollados*. En este caso, la mayoría de los alumnos provienen de estos tres lugares, pero también aparecen otros como Polonia (*En transición* y que también es un destino frecuente para los españoles) o Portugal. **Turquía, único país del grupo de los *Menos desarrollados*, ocupa el séptimo lugar**.
 
 ![De qué países provienen los estudiantes de Erasmus que llegan a España](https://github.com/mariacayuela/periodismo-datos/blob/main/img/erasmus-2.png?raw=true)
 
