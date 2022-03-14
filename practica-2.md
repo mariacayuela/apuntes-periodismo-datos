@@ -28,4 +28,4 @@ La situación es algo diferente cuando se trata del país de origen de los estud
 El programa Erasmus, si bien es una herramienta facilitadora del intercambio cultural y del refuerzo de la identidad europea, **puede apuntalar ciertas desigualdades intrapaíses** (en las propias familias de los estudiantes y entre las comunidades o regiones) e **interpaíses** (las oportunidades para unos y otros estudiantes no son las mismas y esto recorta su capacidad de elección).
 
 *Datos y gráficos obtenidos de [El Confidencial](https://www.elconfidencial.com/mundo/europa/2021-12-28/erasmus-dos-velocidades-programa-ue-desigualdad_3348913/).*
-***Borja***
+
