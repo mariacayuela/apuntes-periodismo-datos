@@ -13,7 +13,7 @@ Sin embargo, la beca Erasmus alimenta las desigualdades entre países. El progra
 
 ## ¿Dónde se van de Erasmus los estudiantes españoles?
 
-En España, un país del grupo intermedio o *En transición*, sus alumnos eligen mayoritariamente universidades con el mismo estatus: 14.000 alumnos a países en transición frente a 10.000 que optan por un país más desarrollado. De hecho, el primer país de destino de la lista, Italia (*En transición*), duplica en número de españoles recibidos al primer país *Desarrollado* que aparece, que es Francia. **El resto de la lista lo completan países de estos dos grupos, sin aparecer ninguno del grupo de *menos desarrollados***.
+En España, un país del grupo intermedio o *En transición*, sus alumnos eligen mayoritariamente universidades con el mismo estatus: 14.000 alumnos a países en transición frente a 10.000 que optan por un país más desarrollado. De hecho, el primer país de destino de la lista, [Italia](https://www.gradomania.com/noticias_universitarias/italia-es-el-destino-favorito-de-los-erasmus-espanoles-org-6860.html) (*En transición*), duplica en número de españoles recibidos al primer país *Desarrollado* que aparece, que es Francia. **El resto de la lista lo completan países de estos dos grupos, sin aparecer ninguno del grupo de *menos desarrollados***.
 
 ![A dónde envían más estudiantes de Erasmus Españ](https://github.com/mariacayuela/periodismo-datos/blob/main/img/erasmus-1.png?raw=true)
 
