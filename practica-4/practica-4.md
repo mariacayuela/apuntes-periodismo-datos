@@ -1,6 +1,6 @@
 # Práctica 4
-*** María Cayuela**
-En esta Práctica 4, he realizado un cuaderno de Python en el que he usado la API pública de [la sección de Datos Abiertos del Ayuntamiento de Arganda](https://datosabiertos.ayto-arganda.es/). Concretamente, he trabajado con las diversas bases de datos que mantiene el municipio sobre la concentración de ozono en la ciudad. 
+***María Cayuela***
+En esta Práctica 4, he realizado un cuaderno de Python en el que he usado la API pública de [la sección de Datos Abiertos del Ayuntamiento de Arganda del Rey](https://datosabiertos.ayto-arganda.es/). Concretamente, he trabajado con las diversas bases de datos que mantiene el municipio sobre la concentración de ozono en la ciudad. 
 
 ## Parte 1: media anual 2006-2016
 Por un lado, he usado la base de datos que contiene [la media anual de ozono por metro cúbico (m3) de los años 2006 a 2016](https://datosabiertos.ayto-arganda.es/dataset/b7ce7868-f873-402f-951f-ec7e5ce8b854/resource/5c34a69d-b313-4b06-8097-e1dfb81ca3ad/download/convertcsv-108.json), ambos incluidos. Una vez importado tanto la librería *Pandas* como la base de datos a través de la API, he creado el dataframe a partir de ellos. No obstante, he tenido que limpiar y recodificar los valores de la variable de la concentración de ozono, ya que no eran numéricos, sino que era una cadena de texto. Para hacer el gráfico correctamente, he pasado los valores a tipo numérico.
