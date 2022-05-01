@@ -1,7 +1,7 @@
 # Práctica 3 
 ***María Cayuela***
 
-En este mismo repositorio se encuentran dos cuadernos realizados en Pyhton 3. Ambos cuadernos se pueden encontrar en dos formatos distintos: *html* y *ipynb*. La intención de esta práctica es aprender a usar diferentes API o librerías con Pandas. 
+En este mismo repositorio se encuentran dos cuadernos realizados en Python 3. Ambos cuadernos se pueden encontrar en dos formatos distintos: *html* y *ipynb*. La intención de esta práctica es aprender a usar diferentes API o librerías como Pandas. 
 ## Primer cuaderno
 El primer cuaderno realizado en Python 3 que encontramos en el repositorio consiste en usar la API del Ayuntamiento de Zaragoza con Folium y Pandas. La finalidad de esta herramiento es crear un mapa de la ciudad de Zaragoza y aprender a manejar los datos sobre accidentes de un archivo *CSV* descargado desde el portal web de la institución. 
 
